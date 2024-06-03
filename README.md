@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Uchiyama Kenichi
 - 🌱 I'm learning programming
-- 👀 I'm interested in Go, JavaScript, and Python.
+- 👀 I'm interested in Go and Python.
 - 💞 I want to learn more about backend programming.
 
 <!---
